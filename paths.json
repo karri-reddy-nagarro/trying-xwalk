@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/trying-xwalk/:/trying-xwalk/"
+    "/content/trying-xwalk/:/"
   ],
   "includes": [
     "/content/trying-xwalk/"
