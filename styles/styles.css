@@ -82,6 +82,8 @@ body {
 
 body.appear {
   display: block;
+    color: blue;
+    background-color: red;
 }
 
 header {
